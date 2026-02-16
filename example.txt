@@ -1,3 +1,6 @@
 helllo all
 welcome to vs code
 heloo
+nice to meet you
+are you happy?
+do you need any help?
